@@ -1,0 +1,8 @@
+Transaction ID,Issue Type,Explanation
+TXN1005,Missing Settlement,Not found in bank data
+TXN1009,Missing Settlement,Not found in bank data
+TXN1010,Missing Settlement,Not found in bank data
+TXN2000,Extra Settlement,Exists in bank but not in platform
+TXN1006,Duplicate Entry,Appears multiple times in bank data
+TXN1004,Late Settlement,Settled on 2026-04-01
+TXN2000,Refund Error,No original transaction
